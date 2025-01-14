@@ -6,9 +6,13 @@ Welcome!  We will have 2 versions of the lab exercise: Python and/or Java, and a
 - Python 3 (consider installing with python virtual environment like pyenv)
 - Python IDE of your choice (Visual Studio Code, PyCharm, etc.)
 - Docker
-- Langchain API key (to use LangSmith for debugging)
+- OpenAI API key
+- Langchain API key (to use [LangSmith](https://www.langchain.com/langsmith) for debugging)
+- If you're using Windows, install Git Bash so that you can run the commands below (if using VSCode you can select Git Bash after starting the integrated terminal)
 
-  Repo:  [https://github.com/ai-ml-workshops/meal-planner-chatbot](https://github.com/ai-ml-workshops/meal-planner-chatbot)
+ #### Repos:
+ #### HelloWorld and The Meal Planner Apps:
+ - [https://github.com/ai-ml-workshops/meal-planner-chatbot](https://github.com/ai-ml-workshops/meal-planner-chatbot)
 
 ### Java
 - Preferably using an IDE such as IntelliJ, VS Code, (or any equivalent tooling). CLI is okay too but you may need a bit of experimentation.J
@@ -38,3 +42,6 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 - [PgVector vector extension](https://github.com/pgvector/pgvector/blob/master/README.md)
 
 ***Please check back here for more info, including the Workshop GitHub repo when the lab exercises are ready for you***
+
+## **Presentation Slide Deck: https://bit.ly/4fHZDoC**
+
