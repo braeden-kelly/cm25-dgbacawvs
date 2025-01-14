@@ -19,12 +19,14 @@ Welcome!  We will have 2 versions of the lab exercise: Python and/or Java, and a
 - DK 17 or higher (can be any distribution from any vendor, such as the [OpenJDK/Adoptium](https://adoptium.net/), [Oracle distro](https://www.oracle.com/java/technologies/downloads/), etc)
 - Maven 3.8 or higher (Gradle will be okay too if you prefer it)
 _We'll be utilizing Spring AI and the online [spring initializr](https://start.spring.io) to generate the initial project 'frame', so the various library dependencies will be downloaded by default (including Spring Boot, Spring AI, Postgres with PgVector libraries...)
+- Spring AI reference materials can be found in [here](https://docs.spring.io/spring-ai/reference/)
 
   #### Repos:
   ##### HelloWorld (very basic Spring AI examples):
   - OpenAI  [https://github.com/ai-ml-workshops/ai-openai-helloworld](https://github.com/ai-ml-workshops/ai-openai-helloworld)
   - Ollama  [https://github.com/ai-ml-workshops/ai-ollama-helloworld](https://github.com/ai-ml-workshops/ai-ollama-helloworld)
-  ##### RAG example (SpringAI):
+  ##### RAG example (SpringAI, PgVector with Docker):
+  - Spring AI RAG sample (from Dan Vega)[https://www.danvega.dev/blog/2024/10/22/getting-started-with-spring-ai-rag#building-your-first-rag-application]
 
 ### OpenAI (applicable to both Python and Java, if we want to use any OpenAI models)
 - OpenAI free account ([signup for new user](https://platform.openai.com/signup/))
