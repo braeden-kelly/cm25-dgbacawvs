@@ -6,8 +6,8 @@ Welcome!  We will have 2 versions of the lab exercise: Python and/or Java, and a
 - Python 3 (consider installing with python virtual environment like pyenv)
 - Python IDE of your choice (Visual Studio Code, PyCharm, etc.)
 - Docker
-- OpenAI API key
-- Langchain API key (to use [LangSmith](https://www.langchain.com/langsmith) for debugging)
+- OpenAI API key (see instructions below)
+- Langchain API key to use LangSmith for debugging (optional). To create account and API key, refer to these [instructions](https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key#create-an-account).
 - If you're using Windows, install Git Bash so that you can run the commands below (if using VSCode you can select Git Bash after starting the integrated terminal)
 
  #### Repos:
@@ -28,9 +28,23 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
   ##### RAG example (SpringAI, PgVector with Docker):
   - Spring AI RAG sample (from Dan Vega)[https://www.danvega.dev/blog/2024/10/22/getting-started-with-spring-ai-rag#building-your-first-rag-application]
 
-### OpenAI (applicable to both Python and Java, if we want to use any OpenAI models)
-- OpenAI free account ([signup for new user](https://platform.openai.com/signup/))
-- Obtain an Open AI Key (will require at least a small payment to start for model usages)
+### C#
+
+- Visual Studio 2022
+- .NET 8
+- OpenAI API key (see instructions below)
+
+ #### Repos:
+ [OpenAI Hello World example with C#](https://github.com/ai-ml-workshops/openai-csharp-helloworld)
+
+### OpenAI API key (needed for any project using any OpenAI model)
+
+- Create an OpenAI free account ([signup for new user](https://platform.openai.com/signup/)).
+- **You must add money to your account before generating an Open AI Key.** The minimum amount of $5 should be sufficient. 
+  - You can verify your balance on the [billing dashboard](https://platform.openai.com/settings/organization/billing/overview). Make sure you see "Auto recharge is off" below your balance, so that it doesn't automatically charge you when you run out of balance.
+- Generate OpenAI key
+
+This [website](https://coding-boot-camp.github.io/full-stack/ai/openai-account-setup-guide) has good step-by-step instructions.
 
 #### HuggingFace (OPTIONAL: only if interested, since we may be showing a few features there)
 - HuggingFace Account ([signup for new user](https://huggingface.co/))
