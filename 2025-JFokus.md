@@ -10,18 +10,22 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 - Spring AI reference materials can be found in [here](https://docs.spring.io/spring-ai/reference/)
 - 
   #### Repos:
-  ##### HelloWorld (very basic Spring AI examples):
+  ##### Spring AI
+  ###### HelloWorld (very basic Spring AI examples):
   - OpenAI  [https://github.com/ai-ml-workshops/ai-openai-helloworld](https://github.com/ai-ml-workshops/ai-openai-helloworld)
   - Ollama  [https://github.com/ai-ml-workshops/ai-ollama-helloworld](https://github.com/ai-ml-workshops/ai-ollama-helloworld)
-  ##### RAG example (SpringAI, PgVector with Docker):
+  ###### RAG example (SpringAI, PgVector with Docker):
   - Spring AI RAG sample (from Dan Vega)[https://www.danvega.dev/blog/2024/10/22/getting-started-with-spring-ai-rag#building-your-first-rag-application]
+  ##### Quarkus Langchain4j
+  - AI Chatbot
+  - Document Retrieval for Language Models (RAG)
 
 ### OPTIONAL Language Examples:
 
 ### Python
 - Python 3 (consider installing with python virtual environment like pyenv)
 - Python IDE of your choice (Visual Studio Code, PyCharm, etc.)
-- Docker
+- Docker or Podman
 - OpenAI API key (see instructions below)
 - Langchain API key to use LangSmith for debugging (optional). To create account and API key, refer to these [instructions](https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key#create-an-account).
 - If you're using Windows, install Git Bash so that you can run the commands below (if using VSCode you can select Git Bash after starting the integrated terminal)
@@ -54,8 +58,10 @@ This [website](https://coding-boot-camp.github.io/full-stack/ai/openai-account-s
 - HuggingFace Account ([signup for new user](https://huggingface.co/))
 - AI-ML-Workshops community organization (OPTIONAL:  Please join our new [AI-ML-Workshops community organization](https://huggingface.co/AI-ML-workshops) for continuous info sharing and learning through the community, beyond the scope of this workshop)
 
-#### Docker 
-- If you prefer using Docker image for the DataStore or Database, instead of local installation.
+#### Container Runtimes 
+If you prefer using a container runtime for the DataStore or Database, instead of local installation.
+ - [Docker](https://www.docker.com/)
+ - [Podman](https://podman.io/)
 
 #### Database and extension(s) (OPTIONAL: needed if not using Docker image and/or if you prefer manual or local installations)
 - PostgreSQL  ([Download site](https://www.postgresql.org/download/))
