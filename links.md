@@ -1,1 +1,2 @@
-- https://github.com/ai-ml-workshops/SystemPrereqs
+- https://github.com/ai-ml-workshops
+- https://discord.com/channels/1127340805741359164/1327989154608578560
