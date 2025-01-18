@@ -23,8 +23,8 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 
   #### Repos:
   ##### HelloWorld (very basic Spring AI examples):
-  - OpenAI  [https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-ai-openai-helloworld](https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-ai-openai-helloworld)
-  - Ollama  [https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-ai-ollama-helloworld](https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-ai-ollama-helloworld)
+  - OpenAI  https://github.com/braeden-kelly/cm25-dgbacawvs-woij
+  - Ollama  https://github.com/braeden-kelly/cm25-dgbacawvs-wol
   ##### RAG example (SpringAI, PgVector with Docker):
   - Spring AI RAG sample (from Dan Vega)[https://www.danvega.dev/blog/2024/10/22/getting-started-with-spring-ai-rag#building-your-first-rag-application]
 
@@ -35,7 +35,7 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 - OpenAI API key (see instructions below)
 
  #### Repos:
- [OpenAI Hello World example with C#](https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-openai-csharp-helloworld)
+https://github.com/braeden-kelly/cm25-dgbacawvs-woic
 
 ### OpenAI API key (needed for any project using any OpenAI model)
 
