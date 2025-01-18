@@ -23,7 +23,7 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 
   #### Repos:
   ##### HelloWorld (very basic Spring AI examples):
-  - OpenAI  [https://github.com/ai-ml-workshops/ai-openai-helloworld](https://github.com/ai-ml-workshops/ai-openai-helloworld)
+  - OpenAI  [https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-ai-openai-helloworld](https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-ai-openai-helloworld)
   - Ollama  [https://github.com/ai-ml-workshops/ai-ollama-helloworld](https://github.com/ai-ml-workshops/ai-ollama-helloworld)
   ##### RAG example (SpringAI, PgVector with Docker):
   - Spring AI RAG sample (from Dan Vega)[https://www.danvega.dev/blog/2024/10/22/getting-started-with-spring-ai-rag#building-your-first-rag-application]
