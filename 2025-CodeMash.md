@@ -12,7 +12,7 @@ Welcome!  We will have 2 versions of the lab exercise: Python and/or Java, and a
 
  #### Repos:
  #### HelloWorld and The Meal Planner Apps:
- - [https://github.com/ai-ml-workshops/meal-planner-chatbot](https://github.com/ai-ml-workshops/meal-planner-chatbot)
+ - [https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-meal-planner-chatbot](https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-meal-planner-chatbot)
 
 ### Java
 - Preferably using an IDE such as IntelliJ, VS Code, (or any equivalent tooling). CLI is okay too but you may need a bit of experimentation.J
