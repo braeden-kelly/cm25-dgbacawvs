@@ -1,3 +1,6 @@
 - https://github.com/ai-ml-workshops
 - https://discord.com/channels/1127340805741359164/1327989154608578560
 - https://github.com/braeden-kelly/cm25-dgbacawvs-w
+- https://github.com/braeden-kelly/cm25-dgbacawvs-wol
+- https://github.com/braeden-kelly/cm25-dgbacawvs-woaj
+- https://github.com/braeden-kelly/cm25-dgbacawvs-woac
