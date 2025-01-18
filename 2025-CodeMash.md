@@ -35,7 +35,7 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 - OpenAI API key (see instructions below)
 
  #### Repos:
- [OpenAI Hello World example with C#](https://github.com/ai-ml-workshops/openai-csharp-helloworld)
+ [OpenAI Hello World example with C#](https://github.com/braeden-kelly/codemash2025-demystifying-genai-build-a-chatgpt-app-with-vector-store-openai-csharp-helloworld)
 
 ### OpenAI API key (needed for any project using any OpenAI model)
 
